@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchCore", "MatchCore\MatchCore.csproj", "{D73C8DA8-C708-48AF-B31D-10C8205A4122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchCoreTests", "MatchCoreTests\MatchCoreTests.csproj", "{512048BF-F2DB-4C6B-A544-614883143F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73C8DA8-C708-48AF-B31D-10C8205A4122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73C8DA8-C708-48AF-B31D-10C8205A4122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73C8DA8-C708-48AF-B31D-10C8205A4122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73C8DA8-C708-48AF-B31D-10C8205A4122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512048BF-F2DB-4C6B-A544-614883143F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512048BF-F2DB-4C6B-A544-614883143F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512048BF-F2DB-4C6B-A544-614883143F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512048BF-F2DB-4C6B-A544-614883143F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
